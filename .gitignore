@@ -1,0 +1,5 @@
+# Built by Pando's qa.py for the Docker host's architecture.
+/apps/edge-prebuilt-binary/server
+node_modules/
+__pycache__/
+.venv/
