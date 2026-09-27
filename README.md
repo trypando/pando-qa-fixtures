@@ -1,7 +1,7 @@
 # Pando deploy QA sources
 
 Everything Pando's deploy QA (`test/deploy-qa` in
-[bemeek-io/pando](https://github.com/bemeek-io/pando)) deploys: 169 cases in
+[trypando/pando](https://github.com/trypando/pando)) deploys: 169 cases in
 three sets.
 
 | File | Cases | What |
